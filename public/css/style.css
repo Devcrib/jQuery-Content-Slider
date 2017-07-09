@@ -48,7 +48,9 @@ h1 {
 }
 .slide-copy {
   position: absolute;
+  bottom: 0;
   padding: 20px;
+  background: rgba(0,0,0, 0.5)
 }
 
 #prev, #next {
